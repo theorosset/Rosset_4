@@ -25,7 +25,26 @@ a:hover {
   z-index: 100000;
   background: #ffffff url("img/pageload-spinner.gif") no-repeat center center;
 }
-
+.texte-chouette-agence {
+  font-size: 20px;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.citation-Guibard {
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 600;
+}
+.citation-artiste {
+  font-size: 14px;
+}
+.titre-realisation {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 600;
+}
 .bloc {
   width: 100%;
   clear: both;
@@ -789,6 +808,7 @@ h4 {
 
 .ltc-white {
   color: #ffffff !important;
+  font-size: x-large;
 }
 
 .ltc-white:hover {
